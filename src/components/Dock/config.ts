@@ -65,7 +65,7 @@ export const dockItems: Array<DockItem> = [
     label: "Mail",
     imgSrc: AppMailWebp,
     fallbackImgSrc: AppMailPng,
-    link: "mailto:quahdave@gmail.com",
+    link: "mailto:farih.muhammad@binus.ac.id",
   },
   {
     label: "GitHub",

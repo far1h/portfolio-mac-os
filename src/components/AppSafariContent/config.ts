@@ -77,7 +77,7 @@ export const favouriteItems: Array<LinkItem> = [
     label: "Gmail",
     imgSrc: LinkGmailWebp,
     fallbackImgSrc: LinkGmailPng,
-    link: "mailto:quahdave@gmail.com",
+    link: "mailto:farih.muhammad@binus.ac.id",
   },
 ];
 
