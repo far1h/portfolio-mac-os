@@ -4,6 +4,8 @@
   "private": true,
   "scripts": {
     "homepage": "https://far1h.github.io/portfolio-mac-os",
+    "predeploy" : "npm run build",
+    "deploy" :  "gh-pages -d build",
     "build": "react-scripts build",
     "eject": "react-scripts eject",
     "lint": "eslint --ext .js,.ts,.tsx ./ --ignore-path .gitignore",
