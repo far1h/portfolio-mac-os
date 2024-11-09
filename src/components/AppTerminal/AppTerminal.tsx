@@ -24,7 +24,7 @@ const AppTerminal: FC<Record<string, never>> = () => {
         className={classNames(windowBarClasses)}
       >
         <WindowControls appKey={ApplicationKeys.ITERM} isActive={true} />
-        <p>milleus &mdash; -zsh</p>
+        <p>mo &mdash; -zsh</p>
       </WindowBar>
 
       <div

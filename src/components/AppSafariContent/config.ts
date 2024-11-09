@@ -53,13 +53,13 @@ export const favouriteItems: Array<LinkItem> = [
     label: "GitHub",
     imgSrc: LinkGitHubWebp,
     fallbackImgSrc: LinkGitHubPng,
-    link: "https://github.com/Milleus",
+    link: "https://github.com/far1h",
   },
   {
     label: "LinkedIn",
     imgSrc: LinkLinkedInWebp,
     fallbackImgSrc: LinkLinkedInPng,
-    link: "https://www.linkedin.com/in/milleus/",
+    link: "https://www.linkedin.com/in/farihmhmd/",
   },
   {
     label: "Twitter",

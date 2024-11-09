@@ -24,7 +24,7 @@ const menuAppleItems: Array<MenuAppleItem> = [
   { label: "Shut Down...", page: Page.BOOT_SHUT_DOWN },
   { label: null },
   { label: "Lock Screen", page: Page.LOGIN },
-  { label: "Log Out Milleus...", page: Page.LOGIN },
+  { label: "Log Out Mo...", page: Page.LOGIN },
 ];
 
 const MenuApple: FC<Record<string, never>> = () => {

@@ -38,7 +38,7 @@ const AppVSCode: FC<Record<string, never>> = () => {
         style={{ height: "calc(100% - 1.5rem)" }} // offset height of window bar
         title="Visual Studio Code"
         frameBorder="0"
-        src="https://github1s.com/Milleus/portfolio-mac-os/blob/main/README.md"
+        src="https://github1s.com/far1h/portfolio-mac-os/blob/main/README.md"
       />
     </Window>
   );

@@ -71,6 +71,6 @@ export const dockItems: Array<DockItem> = [
     label: "GitHub",
     imgSrc: AppGitHubWebp,
     fallbackImgSrc: AppGitHubPng,
-    link: "https://github.com/Milleus/portfolio-mac-os",
+    link: "https://github.com/far1h/portfolio-mac-os",
   },
 ];

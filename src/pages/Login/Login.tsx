@@ -109,7 +109,7 @@ const Login: FC<Record<string, never>> = () => {
             alt="profile"
             className="w-36 h-36 rounded-full"
           />
-          <p className="text-2xl mt-7">Milleus</p>
+          <p className="text-2xl mt-7">mo</p>
           <div className="relative mt-3">
             <input
               type="password"
